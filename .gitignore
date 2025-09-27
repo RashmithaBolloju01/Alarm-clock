@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Logs & data generated at runtime
+alarm_log.txt
+data/*.json
+EOF
